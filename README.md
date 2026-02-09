@@ -22,6 +22,7 @@ A modern, production-ready web application for tracking and managing daily habit
 
 ## Overview
 
+
 Habits Tracker is a comprehensive habit management system designed for professionals and individuals looking to build and maintain better habits. The application provides intuitive tracking, detailed analytics, and professional insights into habit formation patterns.
 
 **Key Highlights:**
